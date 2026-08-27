@@ -24,7 +24,7 @@ I enjoy turning ideas into interactive projects and love experimenting with desi
 
 🎓 Education
 
-2nd-year student at KL University, currently pursuing my degree while actively building projects and sharpening my skills.
+3nd-year student at KL University, currently pursuing my degree while actively building projects and sharpening my skills.
 
 🌐 Connect with me
 <p align="left"> <a href="https://behance.net/Chakrireddy" target="_blank"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /> </a> <a href="https://linkedin.com/in/Ramala Chakradhar Reddy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:youremail@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
